@@ -1,0 +1,8 @@
+prefix=/home/pieter/catkin_ws/devel
+
+Name: publish_goals
+Description: Description of publish_goals
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pieter/catkin_ws/devel/lib 
+Requires: 

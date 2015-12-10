@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "move_car")
+set(move_car_MAINTAINER "tas <tas@todo.todo>")
+set(move_car_DEPRECATED "")
+set(move_car_VERSION "0.0.0")
+set(move_car_BUILD_DEPENDS "actionlib" "move_base_msgs" "roscpp")
+set(move_car_RUN_DEPENDS "actionlib" "move_base_msgs" "roscpp")
+set(move_car_BUILDTOOL_DEPENDS "catkin")

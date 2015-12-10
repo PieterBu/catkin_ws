@@ -1,0 +1,8 @@
+prefix=/home/pieter/catkin_ws/install
+
+Name: tas_simulator
+Description: Description of tas_simulator
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pieter/catkin_ws/install/lib 
+Requires: 

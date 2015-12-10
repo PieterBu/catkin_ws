@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "tas_simulator")
+set(tas_simulator_MAINTAINER "bernd <bernd@todo.todo>")
+set(tas_simulator_DEPRECATED "")
+set(tas_simulator_VERSION "0.0.0")
+set(tas_simulator_BUILD_DEPENDS )
+set(tas_simulator_RUN_DEPENDS )
+set(tas_simulator_BUILDTOOL_DEPENDS "catkin")

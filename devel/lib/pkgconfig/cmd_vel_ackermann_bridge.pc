@@ -1,0 +1,8 @@
+prefix=/home/pieter/catkin_ws/devel
+
+Name: cmd_vel_ackermann_bridge
+Description: Description of cmd_vel_ackermann_bridge
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/pieter/catkin_ws/devel/lib 
+Requires: roscpp roslib nav_msgs std_msgs geometry_msgs

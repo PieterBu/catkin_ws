@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "publish_goals")
+set(publish_goals_MAINTAINER "khoi <khoi@todo.todo>")
+set(publish_goals_DEPRECATED "")
+set(publish_goals_VERSION "0.0.0")
+set(publish_goals_BUILD_DEPENDS "geometry_msgs" "roscpp" "rospy")
+set(publish_goals_RUN_DEPENDS "geometry_msgs" "roscpp" "rospy")
+set(publish_goals_BUILDTOOL_DEPENDS "catkin")
